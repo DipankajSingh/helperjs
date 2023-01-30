@@ -15,7 +15,7 @@ Download the library from the GitHub repository:
 - Include the notificeJS.js file in your HTML file.
 
 ```html
-<script src="./helper.js"></script>
+<script src="./helperjs.js"></script>
 ```
 
 ### Using NPM
