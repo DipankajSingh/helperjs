@@ -15,7 +15,7 @@ Download the library from the GitHub repository:
 - Include the notificeJS.js file in your HTML file.
 
 ```html
-<script src="./notificeJS/notificeJS.js"></script>
+<script src="./helper.js"></script>
 ```
 
 ### Using NPM
@@ -23,13 +23,13 @@ Download the library from the GitHub repository:
 Install the library using npm:
 
 ```
-npm install notificeJS
+npm install helperjs
 ```
 
 Import the library in your JavaScript file:
 
 ```js
-import notificeJS from "notificeJS";
+import help from "helperjs";
 ```
 
 #### Here are some reasons why you might want to use this library:
