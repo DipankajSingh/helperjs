@@ -7,6 +7,13 @@
     "type": "git",
     "url": "git+https://github.com/DipankajSingh/helperjs.git"
   },
+  "keywords": [
+    "helperJS",
+    "util",
+    "utility",
+    "functions",
+    "jquery"
+  ],
   "author": "Dipankaj Singh",
   "license": "MIT",
   "bugs": {
