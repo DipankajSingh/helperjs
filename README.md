@@ -23,7 +23,7 @@ Download the library from the GitHub repository:
 Install the library using npm:
 
 ```
-npm install helperjs
+npm i @itsdipankaj/helperjs
 ```
 
 Import the library in your JavaScript file:
